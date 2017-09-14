@@ -11,10 +11,16 @@
       
       <h1>Eric Tracy</h1>
       
-        <img src='/images/myprofile.png' alt='My Profile'><br>
+        <img src='images/myprofile.png' alt='My Profile'><br>
 
+<<<<<<< HEAD
       <p id="bio">My name is Eric Tracy. I am currently working toward the Web Technologies Certificate at Harvard Extension School. I work as a recruiter here in Massachusetts and I am pursuing this course to expand my technical skillset. I am intrigued by the boundless creativity that web development offers - I am already learning a lot in this course and look forward to this semester!</p><br> 
       
+=======
+      <p id="bio">My name is Eric Tracy. I am currently working toward the Web Technologies Certificate at Harvard Extension School. I work as a recruiter here in Massachusetts and I am pursuing this course to expand my technical skillset. I am intrigued by the boundless creativity that web development offers - I am already learning a lot in this course and look forward to this semester!</p> 
+      <br>
+	  
+>>>>>>> a63eb64b65ed62bfc9c95b5788da3f9e30f5b055
       <?php
         $array1 = [
             '"Time you enjoy wasting, was not wasted" - John Lennon',
