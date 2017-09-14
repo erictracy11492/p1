@@ -11,7 +11,7 @@
       
       <h1>Eric Tracy</h1>
       
-        <img src='images/myprofile.png' alt='My Profile'><br>
+        <img src='/images/myprofile.png' alt='My Profile'><br>
 
       <p id="bio">My name is Eric Tracy. I am currently working toward the Web Technologies Certificate at Harvard Extension School. I work as a recruiter here in Massachusetts and I am pursuing this course to expand my technical skillset. I am intrigued by the boundless creativity that web development offers - I am already learning a lot in this course and look forward to this semester!</p> 
       
